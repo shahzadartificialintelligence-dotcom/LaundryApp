@@ -54,6 +54,14 @@ yarn-error.log*
 **/fastlane/screenshots
 **/fastlane/test_output
 
+
+# 🔐 Security files (VERY IMPORTANT)
+*.keystore
+*.jks
+debug.keystore
+app-release.keystore
+google-services.json
+
 # =========================
 # Bundles
 # =========================
